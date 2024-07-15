@@ -3,7 +3,7 @@ import pandas as pd
 import talib
 from datetime import datetime, timedelta
 
-NEWS_API_KEY = '2af9e6029bb44ec19b0c7abc1bf4ae9f'
+NEWS_API_KEY = 'ТВОЙ ТОКЕН'
 
 TICKER_COMPANY_MAPPING = {
     'SBER': 'Сбербанк',
