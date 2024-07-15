@@ -27,7 +27,7 @@ def handle_message(update, context):
 
 if __name__ == '__main__':
     # Настройка и запуск Telegram-бота
-    updater = Updater('6501428177:AAETOQE4A4GSxE0V-lb2QYJJtWNb5Ai1PSs', use_context=True)
+    updater = Updater('ТВОЙ ТОКЕН', use_context=True)
     dp = updater.dispatcher
 
     dp.add_handler(CommandHandler("start", start))
