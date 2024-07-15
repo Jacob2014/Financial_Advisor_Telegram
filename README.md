@@ -53,4 +53,4 @@ pip install gtts telegram requests pandas talib
 python main.py
 ```
 Теперь ваш бот готов к использованию и будет отправлять голосовые сообщения с финансовыми рекомендациями и последними новостями о компаниях по запросу пользователей.
-![image](https://github.com/user-attachments/assets/6f58b0db-0dff-498d-9a78-9c333b684a40)
+
